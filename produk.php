@@ -22,7 +22,7 @@ class Produk {
 	$produk4 -> judul = "Uncharted";
 	$produk4 -> penulis = "Neil Druckmann";
 	$produk4 -> penerbit = "Sony Computer";
-	produk4 -> harga = 250000;
+	$produk4 -> harga = 250000;
 
 	echo "Komik : " . $produk3->getLabel();
 	echo "<br>";
